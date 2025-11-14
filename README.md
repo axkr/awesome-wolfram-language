@@ -116,6 +116,10 @@
 - [wolfram-language-notebook](https://github.com/njpipeorgan/wolfram-language-notebook) ─ Notebook support for Wolfram Language in VS Code
 - [lsp-wl](https://github.com/kenkangxgwe/lsp-wl) ─ A Wolfram Language Server
 
+## Interpreters
+- [Mathics](https://mathics.org) - Free and open source alternative to Mathematica.
+- [Woxi](https://github.com/ad-si/Woxi) - Wolfram Language interpreter written in Rust.
+
 ## LaTeX
 - [MaTeX](https://github.com/szhorvat/MaTeX) ─ LaTeX labels in Mathematica.
 - [MathematicaCellsToTeX](https://github.com/jkuczm/MathematicaCellsToTeX) ─ Convert Mathematica cells to TeX, retaining formatting.
