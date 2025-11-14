@@ -23,6 +23,7 @@
   - [Front-End (HTML, CSS)](#front-end-html-css)
   - [Game Theory](#game-theory)
   - [IDE](#ide)
+  - [Interpreters](#interpreters)
   - [LaTeX](#latex)
   - [LibraryLink](#librarylink)
   - [Linters](#linters)
