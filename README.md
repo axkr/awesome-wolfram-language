@@ -23,6 +23,7 @@
   - [Front-End (HTML, CSS)](#front-end-html-css)
   - [Game Theory](#game-theory)
   - [IDE](#ide)
+  - [Interpreters](#interpreters)
   - [LaTeX](#latex)
   - [LibraryLink](#librarylink)
   - [Linters](#linters)
@@ -115,6 +116,10 @@
 - [EasyIDE](https://github.com/b3m2a1/EasyIDE) ─ An easy IDE for Mathematica in Mathematica.
 - [wolfram-language-notebook](https://github.com/njpipeorgan/wolfram-language-notebook) ─ Notebook support for Wolfram Language in VS Code
 - [lsp-wl](https://github.com/kenkangxgwe/lsp-wl) ─ A Wolfram Language Server
+
+## Interpreters
+- [Mathics](https://mathics.org) - Free and open source alternative to Mathematica.
+- [Woxi](https://github.com/ad-si/Woxi) - Wolfram Language interpreter written in Rust.
 
 ## LaTeX
 - [MaTeX](https://github.com/szhorvat/MaTeX) ─ LaTeX labels in Mathematica.
